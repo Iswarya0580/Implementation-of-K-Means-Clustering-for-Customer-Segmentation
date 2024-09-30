@@ -56,7 +56,7 @@ plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="green",la
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
-
+```
 ## Output:
 
 ## Elbow method:
@@ -67,7 +67,6 @@ plt.title("Customer Segments")
 
 ## Customer Segments:
 ![Screenshot 2024-09-30 110403](https://github.com/user-attachments/assets/8c70e8af-7f2e-489e-b7d3-f642d8e47e00)
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
